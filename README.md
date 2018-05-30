@@ -18,7 +18,7 @@ Reply_to_Questions_Q3a: Reply to the three questions about the modeling in Q3a.
 
 Q3b_solution: Song recommendation for female users.
               The prototype is written in python3 jupyter notebook.
-              The script is composed of two parts:
+              The script is composed of three parts:
               1. Data transformation for converting the rating matrix of users and user feature matrix.
               2. Recommendation: training the data by using the package lightFM
               3. Example: top 5 recommendation for female users
